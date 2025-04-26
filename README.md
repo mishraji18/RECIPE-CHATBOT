@@ -45,9 +45,9 @@ I'm a passionate **Full Stack Developer** 🚀 from [Your Country], with a stron
 ## 🌐 Connect with me:
 
 <p align="left">
-<a href="https://www.linkedin.com/feed/?trk=sem-ga_campid.14650114788_asid.151761418307_crid.657403558715_kw.linkedin%20login_d.c_tid.kwd-12704335873_n.g_mt.e_geo.1007824" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/devansh-mishra-a01975285/" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white"/></a>
 <a href="https://twitter.com/yourtwitter" target="blank"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white"/></a>
-<a href="https://www.instagram.com/" target="blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white"/></a>
+<a href="https://www.instagram.com/dm_devansh_mishra/" target="blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white"/></a>
 <a href="amusha9795@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white"/></a>
 </p>
 
