@@ -31,12 +31,6 @@ I'm a passionate **Full Stack Developer** 🚀 from [Your Country], with a stron
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github.com/mishraji18/RECIPE-CHATBOT/edit/main/README.mdusername=YourUsername&show_icons=true&theme=radical" width="48%" />
-  <img src="hhttps://github.com/mishraji18/RECIPE-CHATBOT/edit/main/README.md?user=YourUsername&theme=radical" width="48%" />
-</p>
 
 ---
 
