@@ -53,5 +53,5 @@ I'm a passionate **Full Stack Developer** 🚀 from [Your Country], with a stron
 
 ---
 
-> _"Code is like humor. When you have to explain it, it’s bad."_
+
 
