@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Full Stack Developer** 🚀 from [Your Country], with a strong interest in building creative and high-performing web applications.
+I'm a passionate **Full Stack Developer** 🚀 from INDIA, with a strong interest in building creative and high-performing web applications.
 
 - 🔭 I’m currently working on: **A Recipe Chatbot**
 - 🌱 I’m currently learning: **Python,JS,MySQL**
