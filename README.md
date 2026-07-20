@@ -29,18 +29,7 @@ I'm a passionate **Full Stack Developer** 🚀 from INDIA, with a strong interes
   <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white" />
 </p>
 
----
 
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YourUsername&theme=onedark&row=2&column=3" />
-</p>
-
----
 
 ## 🌐 Connect with me:
 
